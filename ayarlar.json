@@ -1,0 +1,17 @@
+{
+  "YOUTUBE_API_KEY": "AIzaSyDNz-itM854DCpAiXo7x47CrvnlVYVUJbU",
+  "prefix": ".",
+  "sahip": "770683353157861437",
+  "token": "",
+ "guildID":"699972497247961199",
+ "botseskanali":"699985693790699580",
+ "logChannelID":"784228440613978142",
+ "boosterRole":"750682367487639552",
+ "jailRole":"784233853799497748",
+ "whitelist":["770683353157861437"],
+ "channelGuard":true,
+ "serverGuard":true,
+ "botGuard":true,
+ "banGuard":true,
+ "kickGuard":true
+}
